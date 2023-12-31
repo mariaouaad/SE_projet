@@ -1,1 +1,3 @@
-# SE_projet
+# SE_projet  
+Ouaad Maria   
+Djitli Anfal 
